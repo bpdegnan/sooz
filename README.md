@@ -1,6 +1,12 @@
 # sooz clients
 
-text yourself!   I use these to send myself SMS messages for better control of notifications.
+text yourself!   I use these to send myself SMS messages for better control of notifications.  
+This was designed for me to add to my todo lists from my flip phone, but it's easier to see
+on a smart phone:
+
+  <img src="docs/sooz.png" width="300" alt="Texts from sooz.us on a phone">
+
+I've been having claude send me messages when done.
 
 Small scripts that text your phone via [sooz.us](https://sooz.us) when
 something finishes or changes. Each needs a sooz **notify token** set to
